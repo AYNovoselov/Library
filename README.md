@@ -6,7 +6,7 @@
 ## Запуск серверной части
 
 ### Требования:
-1. Убедитесь, что у вас установлен [Docker](https://www.docker.com/products/docker-desktop) и [Docker Compose](https://docs.docker.com/compose/install/).
+Убедитесь, что у вас установлен [Docker](https://www.docker.com/products/docker-desktop) и [Docker Compose](https://docs.docker.com/compose/install/).
 
 ### Шаги для запуска:
 	cd library/docker
