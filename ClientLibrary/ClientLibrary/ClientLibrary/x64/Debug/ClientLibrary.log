@@ -1,0 +1,6 @@
+﻿  ClientLibrary.cpp
+C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\ClientLibrary.cpp(98,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\ClientLibrary.cpp(118,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientLibrary.vcxproj -> C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\x64\Debug\ClientLibrary.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

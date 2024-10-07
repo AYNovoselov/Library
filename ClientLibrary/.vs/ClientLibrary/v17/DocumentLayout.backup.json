@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20ant\\source\\repos\\ClientLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4904856F-B14E-4931-83B5-F2E6A1363DB1}|ClientLibrary\\ClientLibrary.vcxproj|C:\\Users\\20ant\\source\\repos\\ClientLibrary\\ClientLibrary\\ClientLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4904856F-B14E-4931-83B5-F2E6A1363DB1}|ClientLibrary\\ClientLibrary.vcxproj|solutionrelative:ClientLibrary\\ClientLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\20ant\\source\\repos\\ClientLibrary\\ClientLibrary\\ClientLibrary.cpp",
+              "RelativeDocumentMoniker": "ClientLibrary\\ClientLibrary.cpp",
+              "ToolTip": "C:\\Users\\20ant\\source\\repos\\ClientLibrary\\ClientLibrary\\ClientLibrary.cpp",
+              "RelativeToolTip": "ClientLibrary\\ClientLibrary.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T23:11:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

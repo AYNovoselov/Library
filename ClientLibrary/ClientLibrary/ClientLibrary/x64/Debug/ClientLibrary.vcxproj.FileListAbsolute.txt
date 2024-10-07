@@ -1,0 +1,4 @@
+C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\x64\Debug\jsoncpp.dll
+C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\x64\Debug\libcurl-d.dll
+C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\x64\Debug\zlibd1.dll
+C:\Users\20ant\source\repos\ClientLibrary\ClientLibrary\ClientLibrary\x64\Debug\ClientLi.2878A03E.Up2Date
